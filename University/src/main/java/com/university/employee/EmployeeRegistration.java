@@ -8,6 +8,6 @@ public class EmployeeRegistration {
 
 	@RequestMapping("/home")
 	public String getWelcomePage() {
-		return "Welcome.jsp";
+		return "Welcome.html";
 	}
 }
