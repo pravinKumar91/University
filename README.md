@@ -1,2 +1,2 @@
 # University
-University project for leaning purpose
+University project for learning purpose
